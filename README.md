@@ -1,125 +1,106 @@
-# digital studio Website
+Digital Studio Website
 
-A sleek and responsive digital studio website designed to showcase professional services, skills, projects, and contact information with a modern user experience. Built using modern frontend technologies with a clean layout, smooth animations, and mobile-friendly design.
+A modern and responsive digital studio website built to showcase creative services, projects, and professional web design solutions.
 
-🔗 **Live Demo:** https://rukshana-roshan.github.io/digital-studio-website/
+🌐 Live Demo
 
-## 📸 Preview
+Visit the website here:
 
-Add a screenshot here:
+[Digital Studio Website](https://rukshana-roshan.github.io/digital-studio-website/?utm_source=chatgpt.com)
 
-```md
-![Website Preview](assets/images/preview.png)
-```
+✨ Features
 
----
+Modern and clean user interface
 
-## ✨ Features
+Fully responsive design
 
-* 🎨 Modern and professional UI design
-* 📱 Fully responsive on all devices
-* ⚡ Smooth scrolling and animations
-* 💼 Services section
-* 👨‍💻 About & Skills showcase
-* 📂 Portfolio / Projects section
-* 📞 Contact form section
-* 🌙 Clean user experience
-* 🚀 Fast loading performance
+Smooth navigation experience
 
----
+Service showcase section
 
-## 🛠️ Technologies Used
+Portfolio/projects section
 
-* HTML5
-* CSS3
-* Bootstrap 5
-* JavaScript
-* Bootstrap Icons
-* Google Fonts
+Contact section
 
----
+Mobile-friendly layout
 
-## 📁 Project Structure
+Fast loading performance
 
-```bash
-modern-business-portfolio-website/
+
+🛠️ Technologies Used
+
+HTML5
+
+CSS3
+
+JavaScript
+
+GitHub Pages
+
+
+📂 Project Structure
+
+digital-studio-website/
 │
 ├── index.html
-├── css/
-│   └── style.css
-├── js/
-│   └── script.js
+├── style.css
+├── script.js
 ├── assets/
 │   ├── images/
 │   └── icons/
+│
 └── README.md
-```
 
----
+🚀 Getting Started
 
-## 🚀 Getting Started
+Clone the Repository
 
-### Clone the Repository
+git clone https://github.com/rukshana-roshan/digital-studio-website.git
 
-```bash
-git clone https://github.com/your-username/modern-business-portfolio-website.git
-```
+Open the Project
 
-### Open the Project
+1. Navigate to the project folder.
 
-```bash
-cd modern-business-portfolio-website
-```
 
-Then open `index.html` in your browser.
+2. Open index.html in your browser.
 
----
 
-## 🎯 Purpose
 
-This project was created to demonstrate modern frontend development practices and provide businesses, freelancers, and developers with a professional online presence.
-
----
-
-## 📱 Responsive Design
+📱 Responsive Design
 
 The website is optimized for:
 
-* Desktop 💻
-* Laptop 🖥️
-* Tablet 📱
-* Mobile 📲
+Desktop
+
+Laptop
+
+Tablet
+
+Mobile Devices
+
+
+🎯 Purpose
+
+This project was created to demonstrate modern web development practices and provide a professional online presence for a digital studio or creative business.
+
+📸 Preview
+
+Visit the live site to view the latest version:
+
+[Live Preview](https://rukshana-roshan.github.io/digital-studio-website/?utm_source=chatgpt.com)
+
+👨‍💻 Author
+
+Rukshana Roshan
+
+GitHub: [Rukshana Roshan GitHub](https://github.com/rukshana-roshan?utm_source=chatgpt.com)
+
+
+📄 License
+
+This project is licensed under the MIT License. Feel free to use and modify it for personal or commercial projects.
+
 
 ---
 
-## 🔮 Future Improvements
-
-* Dark mode support
-* Functional contact form backend
-* Blog section
-* Project filtering system
-* Performance optimizations
-
----
-
-## 👨‍💻 Author
-
-### Rukshana Roshan
-
-* 🌐 Portfolio: [Portfolio Website](https://rukshana-roshan.github.io/developer-portfolio/?utm_source=chatgpt.com)
-* 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/rukshana-roshan/?utm_source=chatgpt.com)
-* 💻 GitHub: [GitHub Profile](https://github.com/rukshana-roshan?utm_source=chatgpt.com)
-
----
-
-## ⭐ Support
-
-If you like this project, consider giving it a ⭐ on GitHub and sharing it with others.
-
----
-
-### "Building modern digital experiences with clean design and responsive development." 🚀
-
-([upwork.com][1])
-
-[1]: https://www.upwork.com/services/product/design-professional-modern-website-design-to-boost-your-online-presence-1946936923192907763?utm_source=chatgpt.com "Professional Modern Website Design to Boost Your Online Presence | Upwork"
+⭐ If you like this project, consider giving it a star on GitHub.
